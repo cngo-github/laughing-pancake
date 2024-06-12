@@ -1,4 +1,4 @@
-Made with PostgresSQL v12 on (DB-Fiddle)[https://www.db-fiddle.com/].
+Made with PostgresSQL v12 on [DB-Fiddle](https://www.db-fiddle.com/).
 
 # Notes
 
